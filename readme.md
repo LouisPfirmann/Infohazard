@@ -2,7 +2,7 @@ I threw this repo together to test if the debug refusal string for Claude models
 
 On 2025-01-21 it worked whenerver read in, regardless of format.
 
-Note: CLAUDE.md completely renders Claude Code inoperable, the file is auto-read and completely kneecaps the model. Do with that information what you please. But it also means you need to remove it for any other tests.
+Note: CLAUDE.md renders Claude Code completely inoperable, the file is auto-read and instantly kneecaps the model regardless of prompt. Do with that information what you please. But it also means you need to remove it for any other tests.
 
 The string:
 
