@@ -1,4 +1,4 @@
-I threw this repo together to test if the debug refusal string for Claude models (Tested Opus 4.5, Sonnet 4.5, Sonnet 4.0) works on files.
+I threw together this repo to test if the debug refusal string for Claude models (Tested Opus 4.5, Sonnet 4.5, Sonnet 4.0) works on files.
 
 On 2025-01-21 it worked whenerver read in, regardless of format.
 
